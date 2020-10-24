@@ -12,4 +12,4 @@ Here are some screenshots of the app
 ### Download the apk
 
 
-[Apk download](https://github.com/Swapnil7000/MutliplicationTable/releases/tag/1.0/app-debug.apk "Apk of MultiplicationTable")
+[Apk download](https://github.com/Swapnil7000/MutliplicationTable/releases/download/1.0/app-debug.apk "Apk of MultiplicationTable")
