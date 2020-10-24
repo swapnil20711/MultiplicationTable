@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Table</string>
+    <string name="table_empty">Your table here</string>
+</resources>
