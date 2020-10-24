@@ -1,4 +1,4 @@
-# Multpilcation Table App
+# Multiplication Table App
 Here are some screenshots of the app
 ## Screenshots
 
